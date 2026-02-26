@@ -4,7 +4,7 @@
 
 ## 🔗 Ссылки
 *   **Демо:** [Ссылка на GitHub Pages](https://zarram89.github.io/htmlacademy-htmlcss-01-sedona/)
-*   **Макет в Figma:** (https://www.figma.com/design/OdFKNhvZRAReNCGe3wBJqJ/HTML-1---%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0--40-?node-id=0-1&p=f)
+*   **Макет в Figma:** [Ссылка на макет Седона](https://www.figma.com/design/OdFKNhvZRAReNCGe3wBJqJ/HTML-1---%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0--40-?node-id=0-1&p=f)
 
 ## 🛠 Технологии и инструменты
 *   **HTML5:** Семантическая разметка (header, main, footer, section и т.д.).
